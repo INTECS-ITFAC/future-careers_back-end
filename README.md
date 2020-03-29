@@ -2,6 +2,16 @@
 
 ## Available Scripts
 
+##Install typescript 
+
+`npm i -g typescript`
+
+##Node package manager
+
+intall node modules insite dir
+
+`npm i`
+
 ##Start app
 
 `npm run dev`
