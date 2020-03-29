@@ -1,17 +1,19 @@
 # future-careers_back-end
 
-#Start app
+## Available Scripts
 
-npm run dev
+##Start app
 
-#Create New Controller
+`npm run dev`
+
+##Create New Controller
 
 eg: create user controller
 
 mkdir src/controllers/User
 touch src/controllers/User/User.ts
 
-#Create New Route 
+##Create New Route 
 
 eg: create user route
 
